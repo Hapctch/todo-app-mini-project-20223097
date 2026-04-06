@@ -1,14 +1,13 @@
 Todo App - Mini Project(학번: 20223097)
 
 1. 프로젝트 소개
-React + Vite, Node.js + Express, MongoDB Atlas를 연결한 풀스택 Todo 리스트 앱입니다.
+React + Vite, Node.js + Express, MongoDB Atlas를 연결한 풀스택 Todo 리스트 앱
 
 2. 프로젝트 구조
 todo-app-mini-project-20223097/
 ├── frontend/        
 ├── backend/         
 ├── api/             
-Serverless 진입점
 ├── vercel.json      
 └── .gitignore
 
